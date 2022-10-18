@@ -1,3 +1,3 @@
 # cars
-## This code explain to way to create a machine learning model
+## This code explain two ways to create a machine learning model
 ## supervised and no supervised
